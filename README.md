@@ -32,7 +32,8 @@
 ---
 
 ## 📫 Como me encontrar
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pablo-henrique-a2b34b277)  
+📫 Você pode me encontrar no [LinkedIn](📫 Você pode me encontrar no [LinkedIn](https://linkedin.com/in/seu-perfil) ou pelo email: seuemail@gmail.com
+) ou
 📧 Email: **Henriquepablo8871@gmail.com**  
 
 ---
