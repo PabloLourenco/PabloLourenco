@@ -32,7 +32,8 @@
 ---
 
 ## 📫 Como me encontrar
-📫 Você pode me encontrar no [LinkedIn](www.linkedin.com/in/pablo-henrique-a2b34b277) ou
+📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/pablo-henrique-a2b34b277)
+) ou
 📧 Email: **Henriquepablo8871@gmail.com**  
 
 ---
