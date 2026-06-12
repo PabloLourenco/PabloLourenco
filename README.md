@@ -4,14 +4,14 @@
 
 🎓 Iniciando minha jornada no mundo da **tecnologia**  
 💾 Interessado principalmente em **Banco de Dados**  
-💻 Aberto a aprender **linguagens de programação** (como **Java**) e outras ferramentas que complementem meu aprendizado  
+💻 Aberto a aprender **linguagens de programação** (como **Python**) e outras ferramentas que complementem meu aprendizado  
 🚀 Focado em construir uma base sólida e evoluir passo a passo  
 
 ---
 
 ## 📚 O que estou estudando no momento
 - Fundamentos de **Banco de Dados** (modelagem, SQL, boas práticas)  
-- Conceitos iniciais de **Java** e lógica de programação  
+- Conceitos iniciais de **Python** e lógica de programação  
 - Introdução a **ferramentas de monitoramento de sistemas**  
 
 ---
@@ -24,9 +24,7 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas em aprendizado
-![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)  
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)   Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
